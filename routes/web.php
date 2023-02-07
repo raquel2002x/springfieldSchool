@@ -21,3 +21,4 @@ use App\Http\Controllers\UserController;
 Auth::routes();
 
 Route::get('/',[UserController::class, 'index']);
+
