@@ -27,7 +27,7 @@ class DatabaseSeeder extends Seeder
             'email' => 'bartolo@bartolo.com',
             'lastname' => 'Simpson',
             'img' =>'',
-            'group' => 1,
+            'course' => 1,
             'isTeacher' => false
         ]);
 
@@ -36,7 +36,7 @@ class DatabaseSeeder extends Seeder
             'email' => 'lisa@empollona.com',
             'lastname' => 'Simpson',
             'img' =>'',
-            'group' => 1,
+            'course' => 1,
             'isTeacher' => false
         ]);
 
@@ -45,7 +45,7 @@ class DatabaseSeeder extends Seeder
             'email' => 'yomellamo@ralph.com',
             'lastname' => 'Wigum',
             'img' =>'',
-            'group' => 1,
+            'course' => 1,
             'isTeacher' => false
         ]);
     }
