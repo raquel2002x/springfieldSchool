@@ -1,5 +1,3 @@
-# springfieldSchool
-
 <h1>Project: "Notas Escolares"</h1>
 
 <h2>1. Project description:</h2>
@@ -33,53 +31,55 @@
 <li>Carmen Cruces https://github.com/CarmenCruces</li>  
 <li>Alba Rus (Product Owner) https://github.com/Albaric0que</li> 
 <li>Raquel Palomo https://github.com/raquel2002x/li> 
-<li>Camila Ruíz (Product Owner) https://github.com/camilaruiz17/li> 
-<li>Himo Jaramillo </li>   
+<li>Camila Ruíz https://github.com/camilaruiz17/li> 
+<li>Himo Jaramillo  https://github.com/Himorell</li>
+<li>Paloma Ruíz (Scrum Master) https://github.com/birdsinyourgarden</li>
 </ul>
 
 
 <h2>4. Project Demo (Preview)</h2>
-//<div style="display:flex; flex-wrap:wrap; justify-content:center; margin:auto">
-//<img style="width:400px; height:250px; margin:12px" src="https://user-images.githubusercontent.com/116546588/213402788-585bfa53-121f-42ac-8058-15d968106c40.gif" //alt="Preliminary project demo"/>
+<div style="display:flex; flex-wrap:wrap; justify-content:center; margin:auto">
+<img style="width:400px; height:250px; margin:12px" src="https://user-images.githubusercontent.com/116546588/213402788-585bfa53-121f-42ac-8058-15d968106c40.gif" alt="Preliminary project demo"/>
 </div>
 
 
 <h2>5. Initial Sketch</h2>
 <div style="display:flex; flex-wrap:wrap; justify-content:center; margin:auto">
-<img style="width:600px; height:400px; margin:12px" src="https://user-images.githubusercontent.com/116546588/213318272-30867356-f456-4fe5-bdd4-ce6a9526c6e1.png" alt="initialSketch"/>
+<img style="width:600px; height:400px; margin:12px" src="" alt="initialSketch"/>
 </div>
 
 <h2>6. Atomic Design</h2> 
 <div style="display:flex; flex-wrap:wrap; justify-content:center; margin:auto">
-<img style="width:250px; height:400px; margin:12px" src="https://user-images.githubusercontent.com/116546588/213406315-f64eec51-42c3-4ee7-b5a4-4fe785958981.png" alt="Atomic Design"/>
+<img style="width:250px; height:400px; margin:12px" src="" alt="Atomic Design"/>
 </div>
 
 <h2>7. Final Design</h2> 
 <div style="display:flex; flex-wrap:wrap; justify-content:center; margin:auto">
-<img style="width:600px; height:500px; margin:12px" src="https://user-images.githubusercontent.com/116546588/213404594-4e2ce34a-6da1-498d-9cc9-5fa599af9ccc.png" alt="PFinal Design "/>
+<img style="width:600px; height:500px; margin:12px" src="" alt="Final Design "/>
 </div>
 
 <h2>8. Stacks</h2>
 <ul>
 <li>HTML5</li>
 <li>CSS3</li>
+<li>JavaScript</li>
 <li>PHP</li>
 <li>Laravel</li>
 <li>Boostrap</li>
-<li>NPM</li>
 </ul>
 
 <h2>9. Required:</h2>
-<li>Composer & Laravel Installed.</li>
-<li>XAMPP/LAMPP Installed.</li>
-<li>NPM Installed.</li>
-<li>MySQL.</li>
-<li>PHP Artisan Serve.</li>
-<li>PHP (Minimum, version 7.4).</li>
+<li>Composer & Laravel Installed</li>
+<li>XAMPP/LAMPP Installed</li>
+<li>NPM Installed</li>
+<li>MySQL</li>
+<li>PHP</li>
+<li>PHP Artisan Serve</li>
+
 
 <h3>To install Project</h3>
 <li>Open the IDE</li>
-<li>In the link https://github.com/camilaruiz17/tech-eventaccess the CODE tab.</li>
+<li>In the link https://github.com/Himorell/springfieldElementarySchool.git the CODE tab.</li>
 <li>Within the CODE tab copy the link that appears in HTTPS.</li>
 <li>In the IDE run <b>git clone</b> command, an paste the HTTPS.</li>
 <li>Write in the IDE terminal the command: <b>composer install </b>or <b>composer update</b> (If you have previously installed composer), and press intro.</li>
