@@ -9,7 +9,7 @@
 
 <h2>2. User stories:</h2>
 
-<h3>2.1 User Story (Guest):</h3>
+<h3>2.1 User Story (User):</h3>
 <ul>
 <li>See the page.</li>
 <li>They can see their marks.</li>
@@ -30,8 +30,8 @@
 <ul>
 <li>Carmen Cruces https://github.com/CarmenCruces</li>  
 <li>Alba Rus (Product Owner) https://github.com/Albaric0que</li> 
-<li>Raquel Palomo https://github.com/raquel2002x/li> 
-<li>Camila Ruíz https://github.com/camilaruiz17/li> 
+<li>Raquel Palomo https://github.com/raquel2002x</li> 
+<li>Camila Ruíz https://github.com/camilaruiz17</li> 
 <li>Himo Jaramillo  https://github.com/Himorell</li>
 <li>Paloma Ruíz (Scrum Master) https://github.com/birdsinyourgarden</li>
 </ul>
@@ -78,7 +78,7 @@
 
 
 <h3>To install Project</h3>
-<li>Open the IDE</li>
+<li>Open your IDE and your terminal</li>
 <li>In the link https://github.com/Himorell/springfieldElementarySchool.git the CODE tab.</li>
 <li>Within the CODE tab copy the link that appears in HTTPS.</li>
 <li>In the IDE run <b>git clone</b> command, an paste the HTTPS.</li>
