@@ -34,6 +34,7 @@
 | Paloma Ruíz |  Scrum Master | https://github.com/birdsinyourgarden |
 | Alba Rus | Product Owner | https://github.com/Albaric0que |
 | Camila Ruíz  | Developer | https://github.com/camilaruiz17 |
+| Carmen Cruces  | Developer | https://github.com/CarmenCruces|
 | Himorell Jaramillo | Developer | https://github.com/Himorell |
 | Raquel Palomo | Developer| https://github.com/raquel2002x|
 
